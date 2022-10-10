@@ -1,6 +1,6 @@
 {
   "name": "@bitcoinnanolabs/bitcoinnanojs",
-  "version": "2.7.4",
+  "version": "2.7.9",
   "module": "index.js",
   "repository": {
     "type": "git",
